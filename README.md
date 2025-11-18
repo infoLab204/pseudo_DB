@@ -17,7 +17,7 @@ ___$mkdir tools___
 
     *	__BWA__: https://sourceforge.net/projects/bio-bwa/files/
     *	__Samtools__: https://github.com/samtools/samtools/releases/
-    *	__Picard__: https://github.com/broadinstitute/pocard/releases/
+    *	__Picard__: https://github.com/broadinstitute/picard/releases/
     *	__GATK__: https://github.com/broadinstitute/gatk/releases/    
     
     (note) BWA and Samtools may require libraries (e.g., bzip2-devel, ncurses-devel, xz-devel, zlib-devel, and curl-devel, etc) installed depending on the open source linux operating system.    
