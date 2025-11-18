@@ -72,7 +72,7 @@ ___$mv GenomeAnalysisTK-3.8-1-0-gf15c1c3ef  gatk___         &nbsp;&nbsp;&nbsp;&n
 https://www.internationalgenome.org/data-portal/sample   
 
     (note) you can download FASTQ of other species (sheep, rice, and chickpea) at 
-    *	sheep: https://db.cngb.org/search/project/CNP0000370/
+    *	sheep: [https://db.cngb.org/search/project/CNP0000370/](https://www.ebi.ac.uk/ena/browser/view/PRJNA160933)
     *	rice: https://www.ebi.ac.uk/ena/browser/view/PRJEB6180?show=reads
     *	chickpea: https://db.cngb.org/search/project/CNP0000370/
     
